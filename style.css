@@ -1,0 +1,13 @@
+.landing-page h2  {
+  color: green;
+  text-align: center;
+}
+
+.landing-page h1{
+  text-align: center;
+}
+
+.landing-page{
+  height: 100vh;
+
+}
